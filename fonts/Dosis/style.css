@@ -1,0 +1,49 @@
+@font-face {
+   font-family: 'Dosis';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 200;
+   src: url('file:///C:/Users/Ziro%20I/Desktop/site/fonts/Dosis/200.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Dosis';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 300;
+   src: url('file:///C:/Users/Ziro%20I/Desktop/site/fonts/Dosis/300.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Dosis';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 500;
+   src: url('file:///C:/Users/Ziro%20I/Desktop/site/fonts/Dosis/500.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Dosis';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 600;
+   src: url('file:///C:/Users/Ziro%20I/Desktop/site/fonts/Dosis/600.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Dosis';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 700;
+   src: url('file:///C:/Users/Ziro%20I/Desktop/site/fonts/Dosis/700.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Dosis';
+   font-style: normal;
+   font-display: swap;
+   font-weight: 800;
+   src: url('file:///C:/Users/Ziro%20I/Desktop/site/fonts/Dosis/800.ttf') format('truetype');
+}
+@font-face {
+   font-family: 'Dosis';
+   font-style: regular;
+   font-display: swap;
+   font-weight: 400;
+   src: url('file:///C:/Users/Ziro%20I/Desktop/site/fonts/Dosis/regular.ttf') format('truetype');
+}

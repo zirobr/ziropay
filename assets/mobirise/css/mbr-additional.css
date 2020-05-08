@@ -675,6 +675,11 @@ section.lazy-placeholder:after {
 .cid-rzMrgNeUFf .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
+@media (min-width: 992px) {
+  .cid-rzMrgNeUFf .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
+    max-height: 91.45714286vh;
+  }
+}
 .cid-rzMrgNeUFf .navbar.collapsed .dropdown-menu {
   width: auto;
   padding: 1rem 0 1rem 0;
@@ -916,7 +921,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-rzMt37x8iA {
-  background-image: url("../../../assets/images/pexels-photo-1036856-1880x1253.jpg");
+  background-image: url("../../../assets/images/design-sem-nome-1800x1200.png");
 }
 .cid-rzMt37x8iA .mbr-text,
 .cid-rzMt37x8iA .typed-text,
@@ -1013,6 +1018,7 @@ section.lazy-placeholder:after {
 .cid-rzMr7rM4hq .mbr-card-title,
 .cid-rzMr7rM4hq .card-img {
   text-align: center;
+  color: #ffbc00;
 }
 .cid-rzMr7rM4hq .mbr-section-title,
 .cid-rzMr7rM4hq .underline {
@@ -1187,6 +1193,56 @@ section.lazy-placeholder:after {
 .cid-rzMraftkbp .mbr-section-subtitle {
   color: #232323;
   text-align: center;
+}
+.cid-rzMraftkbp .subicon-title P {
+  text-align: center;
+}
+.cid-rYmfKpJI79 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
+}
+.cid-rYmfKpJI79 .title {
+  padding: 0 1em;
+  margin-bottom: 25px;
+  color: #232323;
+}
+.cid-rYmfKpJI79 .price-item {
+  background: #ffffff;
+  padding: 25px 0em;
+  margin-bottom: 1em;
+  border: 1px solid #f1f1f1;
+  -moz-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  -webkit-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+.cid-rYmfKpJI79 .price-tage {
+  background: #808080 none repeat scroll 0 0;
+  padding: 15px 1em;
+}
+.cid-rYmfKpJI79 .price-tage > p {
+  letter-spacing: 2px;
+}
+.cid-rYmfKpJI79 .table-content {
+  padding: 0;
+  margin-bottom: 25px;
+}
+.cid-rYmfKpJI79 .table-content > li {
+  list-style: none;
+  border-bottom: 1px solid #f2f2f2;
+  padding: 1em 1em;
+}
+.cid-rYmfKpJI79 .table-content > li:last-child {
+  border-bottom: 1px solid #f0f0f0;
+}
+.cid-rYmfKpJI79 .table-content > li:nth-child(2n) {
+  background: #f2f2f2 none repeat scroll 0 0;
+}
+.cid-rYmfKpJI79 .costs {
+  color: #ffbc00;
+}
+.cid-rYmfKpJI79 .costs-title {
+  color: #ffffff;
 }
 .cid-rzMrbJWA9w {
   padding-top: 0px;
